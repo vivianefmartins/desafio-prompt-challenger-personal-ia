@@ -1,5 +1,5 @@
 # Contexto
-Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas três variáveis abaixo:
+Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas seis variáveis abaixo:
 
 # Área de variávéis
 
